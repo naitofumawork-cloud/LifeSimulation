@@ -18,7 +18,7 @@ from config.system_config import*
 
 画面イメージ
 横長の画面の下段に四つのボタンを配置する
-
+ 
 
 """
 
